@@ -281,19 +281,19 @@ msgstr "Descărcați unul de pe minetest.net"
 #: builtin/mainmenu/dlg_create_world.lua
 #, fuzzy
 msgid "Dungeons"
-msgstr "Zgomotul temnițelor"
+msgstr "Temnițe"
 
 #: builtin/mainmenu/dlg_create_world.lua
 msgid "Flat terrain"
-msgstr ""
+msgstr "Teren plat"
 
 #: builtin/mainmenu/dlg_create_world.lua
 msgid "Floating landmasses in the sky"
-msgstr ""
+msgstr "Mese terestre plutind în aer"
 
 #: builtin/mainmenu/dlg_create_world.lua
 msgid "Floatlands (experimental)"
-msgstr ""
+msgstr "Teren plutitor (experimental)"
 
 #: builtin/mainmenu/dlg_create_world.lua src/settings_translation_file.cpp
 msgid "Game"
@@ -301,73 +301,73 @@ msgstr "Joc"
 
 #: builtin/mainmenu/dlg_create_world.lua
 msgid "Generate non-fractal terrain: Oceans and underground"
-msgstr ""
+msgstr "Generează teren non-fractal: oceane și teren sub pământ"
 
 #: builtin/mainmenu/dlg_create_world.lua
 msgid "Hills"
-msgstr ""
+msgstr "Dealuri"
 
 #: builtin/mainmenu/dlg_create_world.lua
 msgid "Humid rivers"
-msgstr ""
+msgstr "Râuri umede"
 
 #: builtin/mainmenu/dlg_create_world.lua
 msgid "Increases humidity around rivers"
-msgstr ""
+msgstr "Crește umezeala lângă râuri"
 
 #: builtin/mainmenu/dlg_create_world.lua
 msgid "Lakes"
-msgstr ""
+msgstr "Lacuri"
 
 #: builtin/mainmenu/dlg_create_world.lua
 msgid "Low humidity and high heat causes shallow or dry rivers"
-msgstr ""
+msgstr "Umiditate scăzută și temperatură ridicată generează râuri neadănci și uscate"
 
 #: builtin/mainmenu/dlg_create_world.lua src/settings_translation_file.cpp
 msgid "Mapgen"
-msgstr "Gen de hartă"
+msgstr "Generare de hartă"
 
 #: builtin/mainmenu/dlg_create_world.lua src/settings_translation_file.cpp
 msgid "Mapgen flags"
-msgstr "Steagurile Mapgen"
+msgstr "Steagurile generării de hartă"
 
 #: builtin/mainmenu/dlg_create_world.lua
 #, fuzzy
 msgid "Mapgen-specific flags"
-msgstr "Steaguri specifice Mapgen V5"
+msgstr "Steaguri specifice Generării de hartă V5"
 
 #: builtin/mainmenu/dlg_create_world.lua
 msgid "Mountains"
-msgstr ""
+msgstr "Munți"
 
 #: builtin/mainmenu/dlg_create_world.lua
 msgid "Mud flow"
-msgstr ""
+msgstr "Curgere de noroi"
 
 #: builtin/mainmenu/dlg_create_world.lua
 msgid "Network of tunnels and caves"
-msgstr ""
+msgstr "Rețea de tunele și peșteri"
 
 #: builtin/mainmenu/dlg_create_world.lua
 msgid "No game selected"
-msgstr "Nici un joc selectat"
+msgstr "Nici un joc nu eselectat"
 
 #: builtin/mainmenu/dlg_create_world.lua
 msgid "Reduces heat with altitude"
-msgstr ""
+msgstr "Reduce temperatura datorită altitudinii"
 
 #: builtin/mainmenu/dlg_create_world.lua
 msgid "Reduces humidity with altitude"
-msgstr ""
+msgstr "Reduce umiditatea datorită altitudinii"
 
 #: builtin/mainmenu/dlg_create_world.lua
 #, fuzzy
 msgid "Rivers"
-msgstr "Zgomotul râului"
+msgstr "Râuri"
 
 #: builtin/mainmenu/dlg_create_world.lua
 msgid "Sea level rivers"
-msgstr ""
+msgstr "Râuri la nivelul mării"
 
 #: builtin/mainmenu/dlg_create_world.lua
 #: builtin/mainmenu/dlg_settings_advanced.lua
@@ -376,7 +376,7 @@ msgstr "Seminţe"
 
 #: builtin/mainmenu/dlg_create_world.lua
 msgid "Smooth transition between biomes"
-msgstr ""
+msgstr "Tranziție netedă între biomi"
 
 #: builtin/mainmenu/dlg_create_world.lua
 msgid ""
@@ -6484,4 +6484,4 @@ msgstr ""
 #~ msgstr "Înapoi"
 
 #~ msgid "Ok"
-#~ msgstr "Ok"
+#~ msgstr "Okay"
