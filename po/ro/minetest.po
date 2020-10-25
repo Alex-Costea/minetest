@@ -25,7 +25,7 @@ msgstr "Ai murit"
 
 #: builtin/fstk/dialog.lua builtin/fstk/ui.lua src/gui/modalMenu.cpp
 msgid "OK"
-msgstr ""
+msgstr "Okay"
 
 #: builtin/fstk/ui.lua
 msgid "An error occurred in a Lua script:"
@@ -45,7 +45,7 @@ msgstr "Reconectează-te"
 
 #: builtin/fstk/ui.lua
 msgid "The server has requested a reconnect:"
-msgstr "Serverul cere o reconectare :"
+msgstr "Serverul cere o reconectare: "
 
 #: builtin/mainmenu/common.lua src/client/game.cpp
 msgid "Loading..."
@@ -93,11 +93,11 @@ msgstr "Dependențe:"
 
 #: builtin/mainmenu/dlg_config_world.lua
 msgid "Disable all"
-msgstr "Dezactivează toate"
+msgstr "Dezactivează pe toate"
 
 #: builtin/mainmenu/dlg_config_world.lua
 msgid "Disable modpack"
-msgstr "Dezactiveaza pachet mod"
+msgstr "Dezactiveaza pachetul de modificări"
 
 #: builtin/mainmenu/dlg_config_world.lua
 msgid "Enable all"
@@ -105,7 +105,7 @@ msgstr "Activează tot"
 
 #: builtin/mainmenu/dlg_config_world.lua
 msgid "Enable modpack"
-msgstr "Activeaza pachet mod"
+msgstr "Activează pachetul de modificări"
 
 #: builtin/mainmenu/dlg_config_world.lua
 msgid ""
@@ -117,7 +117,7 @@ msgstr ""
 
 #: builtin/mainmenu/dlg_config_world.lua
 msgid "Find More Mods"
-msgstr ""
+msgstr "Găsiți mai multe moduri"
 
 #: builtin/mainmenu/dlg_config_world.lua
 msgid "Mod:"
@@ -170,7 +170,7 @@ msgstr "Înapoi la meniul principal"
 
 #: builtin/mainmenu/dlg_contentstore.lua
 msgid "ContentDB is not available when Minetest was compiled without cURL"
-msgstr ""
+msgstr "ContentDB nu este disponibil atunci când Minetest a fost compilat fără cURL"
 
 #: builtin/mainmenu/dlg_contentstore.lua
 #, fuzzy
@@ -222,7 +222,7 @@ msgstr "Actualizare"
 
 #: builtin/mainmenu/dlg_contentstore.lua
 msgid "View"
-msgstr ""
+msgstr "Vizionați"
 
 #: builtin/mainmenu/dlg_create_world.lua
 msgid "A world named \"$1\" already exists"
@@ -230,35 +230,35 @@ msgstr "O lume cu numele \"$1\" deja există"
 
 #: builtin/mainmenu/dlg_create_world.lua
 msgid "Additional terrain"
-msgstr ""
+msgstr "Teren adițional"
 
 #: builtin/mainmenu/dlg_create_world.lua src/settings_translation_file.cpp
 msgid "Altitude chill"
-msgstr "Altitudine de frisoane"
+msgstr "Răceala după altitudine"
 
 #: builtin/mainmenu/dlg_create_world.lua
 #, fuzzy
 msgid "Altitude dry"
-msgstr "Altitudine de frisoane"
+msgstr "Uscăciunea după altitudine"
 
 #: builtin/mainmenu/dlg_create_world.lua
 #, fuzzy
 msgid "Biome blending"
-msgstr "Biome zgomot"
+msgstr "Amestecarea biomurilor"
 
 #: builtin/mainmenu/dlg_create_world.lua
 #, fuzzy
 msgid "Biomes"
-msgstr "Biome zgomot"
+msgstr "Biomuri"
 
 #: builtin/mainmenu/dlg_create_world.lua
 #, fuzzy
 msgid "Caverns"
-msgstr "Pragul cavernei"
+msgstr "Caverne"
 
 #: builtin/mainmenu/dlg_create_world.lua
 #, fuzzy
-msgid "Caves"
+msgid "Peșteri"
 msgstr "Octava"
 
 #: builtin/mainmenu/dlg_create_world.lua
@@ -268,7 +268,7 @@ msgstr "Creează"
 #: builtin/mainmenu/dlg_create_world.lua
 #, fuzzy
 msgid "Decorations"
-msgstr "Informații:"
+msgstr "Decorații"
 
 #: builtin/mainmenu/dlg_create_world.lua
 msgid "Download a game, such as Minetest Game, from minetest.net"
